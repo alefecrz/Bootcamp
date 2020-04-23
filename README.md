@@ -11,14 +11,17 @@
 <p align="center">
   <a href="#rocket-about-project">About project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#arrow_forward-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#arrow_forward-testing">Testing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#gear-testing">Testing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 ## :rocket: About project
 
-Landing Page criada em React.js, para divulgar informações, projetos e contatar.
+Challenge 02: Node.js concepts.
 
+[Details about challenge](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs) 
+
+Completed on 23/04/2020
 
 ## :arrow_forward: Getting Started
 
@@ -29,20 +32,20 @@ $ yarn
 $ yarn dev
 ```
 
-## :arrow_forward: Testing
+## :gear: Testing
 
-Inside directory B, execute the command
+Inside directory repository-api, execute the command
 
 ```sh
 $ yarn dev
 ```
 
 
-## :memo: Licensa
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
 
 ---
 
-Desafio feito com ♥ by Álefe Cruz :wave: [Acesse meu portifólio!](https://www.alefecruz.com/)
+Challenge made with ♥ by Álefe Cruz :wave: [Get in touch!](https://www.alefecruz.com/)
 
